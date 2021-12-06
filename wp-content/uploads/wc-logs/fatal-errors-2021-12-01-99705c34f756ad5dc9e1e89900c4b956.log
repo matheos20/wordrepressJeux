@@ -1,0 +1,163 @@
+2021-12-01T11:35:20+00:00 CRITICAL Uncaught Error: Call to undefined function twentytwenty_unique_id() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:18
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\home.php(2): get_header()
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 18
+
+2021-12-01T12:45:04+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\home.php(2): get_header()
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T12:45:13+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\woocommerce\archive-product.php(20): get_header('shop')
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdo dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T12:45:17+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php(1): get_header()
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T12:45:20+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php(1): get_header()
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T12:45:24+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\woocommerce\archive-product.php(20): get_header('shop')
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdo dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T12:45:27+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php(1): get_header()
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T12:45:30+00:00 CRITICAL Uncaught Error: Call to undefined function envo_ecommerce_main_content_width_columns() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:8
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#2 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\home.php(2): get_header()
+#6 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 8
+
+2021-12-01T15:47:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php on line 4 and at least 1 expected in C:\xampp\htdocs\wordpress\wp-includes\query.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php(4): get_query_var()
+#1 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\home.php(2): get_header()
+#7 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdo dans C:\xampp\htdocs\wordpress\wp-includes\query.php à la ligne 26
+
+2021-12-01T15:47:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php on line 4 and at least 1 expected in C:\xampp\htdocs\wordpress\wp-includes\query.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php(4): get_query_var()
+#1 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\woocommerce\archive-product.php(20): get_header('shop')
+#7 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php( dans C:\xampp\htdocs\wordpress\wp-includes\query.php à la ligne 26
+
+2021-12-01T15:47:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php on line 4 and at least 1 expected in C:\xampp\htdocs\wordpress\wp-includes\query.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php(4): get_query_var()
+#1 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php(1): get_header()
+#7 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htd dans C:\xampp\htdocs\wordpress\wp-includes\query.php à la ligne 26
+
+2021-12-01T15:47:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php on line 4 and at least 1 expected in C:\xampp\htdocs\wordpress\wp-includes\query.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php(4): get_query_var()
+#1 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php(1): get_header()
+#7 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htd dans C:\xampp\htdocs\wordpress\wp-includes\query.php à la ligne 26
+
+2021-12-01T15:47:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_query_var(), 0 passed in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php on line 4 and at least 1 expected in C:\xampp\htdocs\wordpress\wp-includes\query.php:26
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php(4): get_query_var()
+#1 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(308): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\header.php(48): get_search_form()
+#3 C:\xampp\htdocs\wordpress\wp-includes\template.php(770): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#5 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#6 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\home.php(2): get_header()
+#7 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdo dans C:\xampp\htdocs\wordpress\wp-includes\query.php à la ligne 26
+

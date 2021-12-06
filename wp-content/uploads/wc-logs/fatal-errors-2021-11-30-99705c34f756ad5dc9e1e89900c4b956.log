@@ -1,0 +1,2 @@
+2021-11-30T16:14:39+00:00 CRITICAL Cannot redeclare custom_search_form() (previously declared in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php:4) dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\searchform.php à la ligne 14
+

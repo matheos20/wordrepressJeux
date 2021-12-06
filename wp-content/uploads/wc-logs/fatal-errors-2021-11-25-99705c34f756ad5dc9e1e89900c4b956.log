@@ -1,0 +1,234 @@
+2021-11-25T08:56:09+00:00 CRITICAL syntax error, unexpected 'customtheme_add_woocommerce_su' (T_STRING) dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\functions.php à la ligne 2
+
+2021-11-25T08:59:08+00:00 CRITICAL Uncaught Error: Call to undefined function le_titre() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:7
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 7
+
+2021-11-25T11:47:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:48:23+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:48:24+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:48:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:48:44+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:50:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:55:59+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T11:57:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:00:26+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:00:35+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:00:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:10+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:11:25+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:12:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:13:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:13:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:13:55+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:13:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:14:01+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:17:09+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:16
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 16
+
+2021-11-25T12:17:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 17
+
+2021-11-25T12:18:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_templete_uri() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php:17
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php à la ligne 17
+

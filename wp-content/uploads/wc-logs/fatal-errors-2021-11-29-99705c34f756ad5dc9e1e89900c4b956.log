@@ -1,0 +1,18 @@
+2021-11-29T09:55:56+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\l10n.php à la ligne 1169
+
+2021-11-29T15:07:47+00:00 CRITICAL Uncaught Error: Call to undefined function has_posts() in C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\template\part-single.php:1
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-includes\template.php(772): require()
+#1 C:\xampp\htdocs\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\index.php(2): get_template_part('template/part', 'single')
+#4 C:\xampp\htdocs\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\template\part-single.php à la ligne 1
+
+2021-11-29T15:32:22+00:00 CRITICAL syntax error, unexpected ';', expecting ')' dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\template\part-single.php à la ligne 24
+
+2021-11-29T15:44:56+00:00 CRITICAL syntax error, unexpected '<', expecting end of file dans C:\xampp\htdocs\wordpress\wp-content\themes\mytheme\template\part-single.php à la ligne 9
+
